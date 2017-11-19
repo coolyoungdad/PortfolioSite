@@ -32,7 +32,7 @@ body {
     max-height: 100%;
     transition: 1s;
     overflow: scroll;
-    cursor: url(http://cur.cursors-4u.net/others/oth-7/oth667.cur), progress !important;
+    cursor: url(https://cur.cursors-4u.net/others/oth-7/oth667.cur), progress !important;
 }
 
 a {
@@ -41,7 +41,7 @@ a {
 }
 
 a:hover{
-cursor: url(http://cur.cursors-4u.net/others/oth-7/oth670.cur), progress !important;
+cursor: url(https://cur.cursors-4u.net/others/oth-7/oth670.cur), progress !important;
 }
 
 .link {
